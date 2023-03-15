@@ -1,10 +1,10 @@
 [
   {
-    "package": "rbi",
+    "package": "rbi.helpers",
     "oncran": true
   },
   {
-    "package": "rbi.helpers",
+    "package": "rbi",
     "oncran": true
   }
 ]
